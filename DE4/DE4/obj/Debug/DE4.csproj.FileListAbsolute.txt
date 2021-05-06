@@ -1,0 +1,9 @@
+C:\Users\Z3\source\repos\DE4\DE4\bin\Debug\DE4.exe.config
+C:\Users\Z3\source\repos\DE4\DE4\bin\Debug\DE4.exe
+C:\Users\Z3\source\repos\DE4\DE4\bin\Debug\DE4.pdb
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.csprojAssemblyReference.cache
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.Form1.resources
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.Properties.Resources.resources
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.csproj.GenerateResource.cache
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.exe
+C:\Users\Z3\source\repos\DE4\DE4\obj\Debug\DE4.pdb

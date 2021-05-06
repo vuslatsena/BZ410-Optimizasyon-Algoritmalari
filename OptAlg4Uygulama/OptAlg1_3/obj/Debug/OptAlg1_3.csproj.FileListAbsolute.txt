@@ -1,0 +1,9 @@
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\bin\Debug\OptAlg1_3.exe.config
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\bin\Debug\OptAlg1_3.exe
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\bin\Debug\OptAlg1_3.pdb
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.csprojAssemblyReference.cache
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.Form1.resources
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.Properties.Resources.resources
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.csproj.GenerateResource.cache
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.exe
+C:\Users\Z3\source\repos\OptAlg1_3\OptAlg1_3\obj\Debug\OptAlg1_3.pdb
